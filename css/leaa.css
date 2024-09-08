@@ -1,0 +1,30 @@
+nav{
+    text-align: center;
+    background-color: rgb(9, 117, 117);
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.vv{
+    border-radius:100% solid black; 
+}
+ul,li{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 0px;
+   
+
+}
+.dedd{
+background-color: royalblue;
+color: #fff;
+text-align: center;
+}
+
+.gloire{
+    text-align: center;
+    background-color: blue;
+    color: #fff;
+}

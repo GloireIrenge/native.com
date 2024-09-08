@@ -1,0 +1,71 @@
+.ne{
+    background-image: url("../images/kjhuh.jpg"); 
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 100px;
+    background-repeat: no-repeat;
+    
+}
+.deo{
+    background-color: rgb(9, 117, 117);
+    color:#fff;
+    border: 4px #fff solid;
+    height: 50px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.dedd{
+    background-color: rgb(9, 117, 117);
+    color: #fff;
+}
+.gloire{
+    text-align: center;
+    background-image: url("../images/nice 22.jpg");
+    color:  rgb(112, 92, 5);
+}
+.DAGE{
+   
+       background-image: url("../images/nice 22.jpg");
+    background-size: cover;
+    color:  rgb(112, 92, 5);
+    text-align: center;
+    padding: 100px;
+    background-repeat: no-repeat;
+    
+}
+   
+
+a{
+    color: #fff;
+}
+body{
+    background-image: url("../images/nice 22.jpg");
+}
+.sgsg{
+    color: rgb(112, 92, 5);
+    text-align: center;
+}
+.SLA{
+    text-align: center;
+   }
+   th,tr,td {
+    background-color:rgb(45, 54, 139);
+border-collapse: collapse;
+border:1px solid rgb(255, 255, 255);
+color:rgb(255, 255, 255);
+border-radius: 12px ;
+padding-top: 0%;
+text-align: center;
+}
+.aqqqqqqqqqqq{
+    color:  rgb(112, 92, 5);   
+}
+.pos{
+    background-color:rgb(9, 117, 117);
+    color:#fff;
+    border: 4px #fff solid;
+    height: 50px;
+    padding: 10px;
+    border-radius: 20px;
+}
